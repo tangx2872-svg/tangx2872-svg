@@ -19,6 +19,7 @@
 | --- | --- | --- | --- |
 | [research-experiments](https://github.com/tangx2872-svg/research-experiments) | 🔬 AI / Research | 研究生阶段实验、论文复现、工业异常检测与光照鲁棒性研究记录 | 🚧 持续推进 |
 | [zhixing-study](https://github.com/tangx2872-svg/zhixing-study) | 🧑‍💻 Django / Full Stack | 教学与科研协作平台：课程、实验提交、代码评审、成果版本、科研任务与权限管理 | ✅ 第一版完成 |
+| [exploration-exploitation-demo](https://github.com/tangx2872-svg/exploration-exploitation-demo) | 🎮 Reinforcement Learning / Web Demo | 面向《机器学习 / 强化学习入门》课堂的交互式演示，用内容推荐场景直观展示探索与利用之间的权衡 | ✅ 已完成 |
 | [fashion-mnist-optimizer-comparison](https://github.com/tangx2872-svg/fashion-mnist-optimizer-comparison) | 🤖 Machine Learning | Fashion-MNIST 分类任务与多种优化器训练效果比较 | ✅ 已完成 |
 | [Teedy](https://github.com/tangx2872-svg/Teedy) | 📚 Software Engineering | 软件工程课程实践、Git 版本控制与项目文档整理 | ✅ 阶段完成 |
 | [advanced-engineering-mathematics](https://github.com/tangx2872-svg/advanced-engineering-mathematics) | 📐 Mathematics | 高等工程数学课程学习与作业版本化记录 | 🚧 进行中 |
@@ -36,11 +37,12 @@
 | **2026.10.19** | 🚀 `zhixing-study` 独立整理 | 将教学科研协作平台独立成仓库，继续统一界面、完善评分流程，并改进敏感配置管理 |
 | **2026.10.20** | 🤖 机器学习优化器实验 | 完成 Fashion-MNIST 优化器比较实验，并整理实验报告与项目文档 |
 | **2026.10.20** | 📐 高等工程数学 | 建立课程仓库，开始将研究生数学学习过程进行版本化整理 |
+| **2026.10.26** | 🎮 探索与利用课堂 Demo | 完成 `exploration-exploitation-demo`：用纯前端交互推荐场景展示探索与利用的直觉，为强化学习课堂讲解提供可复现演示 |
 | **现在** | 🎯 科研主线继续推进 | 从异常检测基础实验逐步进入工业视觉、光照鲁棒性、实验验证与论文方向探索 |
 
 ## 🧰 正在使用的技术
 
-`Python` · `PyTorch` · `Django` · `Git / GitHub` · `MySQL` · `Computer Vision` · `Machine Learning`
+`Python` · `PyTorch` · `Django` · `Git / GitHub` · `MySQL` · `HTML / CSS / JavaScript` · `Computer Vision` · `Machine Learning`
 
 ## 🌱 当前状态
 
