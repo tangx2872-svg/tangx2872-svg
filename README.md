@@ -11,7 +11,7 @@
 - **Industrial Anomaly Detection**：工业视觉异常检测、PatchCore、真实光照变化与鲁棒性
 - **Machine Learning Practice**：模型训练、优化器比较、实验分析与结果复现
 - **Research Engineering**：实验管理、结果追踪、文档整理、Git 版本化
-- **Web Engineering**：Django 教学 / 科研协作平台的二次开发与工程化
+- **Web Engineering**：Django / Node.js 全栈项目、数据持久化与工程化实践
 
 ## ⭐ 精选项目
 
@@ -19,6 +19,7 @@
 | --- | --- | --- | --- |
 | [research-experiments](https://github.com/tangx2872-svg/research-experiments) | 🔬 AI / Research | 研究生阶段实验、论文复现、工业异常检测与光照鲁棒性研究记录 | 🚧 持续推进 |
 | [zhixing-study](https://github.com/tangx2872-svg/zhixing-study) | 🧑‍💻 Django / Full Stack | 教学与科研协作平台：课程、实验提交、代码评审、成果版本、科研任务与权限管理 | ✅ 第一版完成 |
+| **life-dashboard-agent** 🔒 | 🧭 Node.js / MySQL / Agent-ready | 个人学习、科研与日常事项管理系统的本地全栈版：数据库持久化、完整备份迁移、历史快照与 Agent 接口预留 | 🚧 私有项目 / 持续开发 |
 | [exploration-exploitation-demo](https://github.com/tangx2872-svg/exploration-exploitation-demo) | 🎮 Reinforcement Learning / Web Demo | 面向《机器学习 / 强化学习入门》课堂的交互式演示，用内容推荐场景直观展示探索与利用之间的权衡 | ✅ 已完成 |
 | [fashion-mnist-optimizer-comparison](https://github.com/tangx2872-svg/fashion-mnist-optimizer-comparison) | 🤖 Machine Learning | Fashion-MNIST 分类任务与多种优化器训练效果比较 | ✅ 已完成 |
 | [Teedy](https://github.com/tangx2872-svg/Teedy) | 📚 Software Engineering | 软件工程课程实践、Git 版本控制与项目文档整理 | ✅ 阶段完成 |
@@ -38,11 +39,12 @@
 | **2026.10.20** | 🤖 机器学习优化器实验 | 完成 Fashion-MNIST 优化器比较实验，并整理实验报告与项目文档 |
 | **2026.10.20** | 📐 高等工程数学 | 建立课程仓库，开始将研究生数学学习过程进行版本化整理 |
 | **2026.10.26** | 🎮 探索与利用课堂 Demo | 完成 `exploration-exploitation-demo`：用纯前端交互推荐场景展示探索与利用的直觉，为强化学习课堂讲解提供可复现演示 |
+| **2026.10.26** | 🧭 Life Dashboard 全栈化 | 建立 `life-dashboard-agent` 私有仓库，将原有个人控制台升级为 Node.js + MySQL 本地全栈应用，加入数据库持久化、备份恢复、历史快照与后续 Agent 接入基础 |
 | **现在** | 🎯 科研主线继续推进 | 从异常检测基础实验逐步进入工业视觉、光照鲁棒性、实验验证与论文方向探索 |
 
 ## 🧰 正在使用的技术
 
-`Python` · `PyTorch` · `Django` · `Git / GitHub` · `MySQL` · `HTML / CSS / JavaScript` · `Computer Vision` · `Machine Learning`
+`Python` · `PyTorch` · `Django` · `Node.js` · `MySQL` · `Git / GitHub` · `HTML / CSS / JavaScript` · `Computer Vision` · `Machine Learning`
 
 ## 🌱 当前状态
 
