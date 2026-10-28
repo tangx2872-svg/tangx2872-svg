@@ -12,13 +12,15 @@
 - **Machine Learning Practice**：模型训练、优化器比较、实验分析与结果复现
 - **Research Engineering**：实验管理、结果追踪、文档整理、Git 版本化
 - **Web Engineering**：Django / Node.js 全栈项目、数据持久化、AI 助手接入与原生前端交互
+- **Agent Learning Demos**：通过可交互教学演示理解任务拆解、工具调用、反馈调整与执行记录
 
 ## ⭐ 精选项目
 
 | 项目 | 方向 | 主要内容 | 状态 |
 | --- | --- | --- | --- |
 | [research-experiments](https://github.com/tangx2872-svg/research-experiments) | 🔬 AI / Research | 研究生阶段实验、论文复现、工业异常检测与光照鲁棒性研究记录 | 🚧 持续推进 |
-| [zhixing-study](https://github.com/tangx2872-svg/zhixing-study) | 🧑‍💻 Django / Full Stack | 教学与科研协作平台：课程、实验提交、代码评审、成果版本、科研任务与权限管理 | ✅ 第一版完成 |
+| [zhixing-study](https://github.com/tangx2872-svg/zhixing-study) | 🧑‍💻 Django / Full Stack | 教学与科研协作平台：课程、实验提交、代码评审、成果版本、科研任务与权限管理 | 🧪 第一版完成，受控试用 |
+| [weekend-agent-demo](https://github.com/tangx2872-svg/weekend-agent-demo) | 🧳 AI Agent / Web Demo | 周末旅行规划教学：任务拆解、模拟工具调用、天气反馈调整、预算核对与执行记录导出；[在线演示](https://tangx2872-svg.github.io/weekend-agent-demo/) | 🧩 规则驱动教学模拟 |
 | [life-dashboard-agent](https://github.com/tangx2872-svg/life-dashboard-agent) | 🧭 Node.js / MySQL / AI Assistant | 本地个人控制台：数据库持久化、备份恢复、历史快照；智能助手生成修改草案，经用户确认后保存 | 🚧 持续开发 |
 | [exploration-exploitation-demo](https://github.com/tangx2872-svg/exploration-exploitation-demo) | 🎮 Reinforcement Learning / Web Demo | 推荐场景下的探索与利用教学：决策理由、奖励与估计更新、累计收益对照、可复现轨迹与 CSV 导出 | ✅ 已完成 |
 | [birthday-puzzle-surprise-2026](https://github.com/tangx2872-svg/birthday-puzzle-surprise-2026) | 🎂 HTML / CSS / JavaScript | 温暖纸感的生日解谜网站：多关卡提示、浏览器进度保存、可配置信件与照片墙，支持手机和电脑 | 🧩 可运行模板 |
@@ -28,6 +30,7 @@
 
 ## ✨ 近期项目亮点
 
+- **Agent 周末旅行规划 Demo**：通过晴天、下雨和预算不足场景展示任务拆解、模拟工具调用、反馈调整与预算确认；支持逐步执行、自动播放和执行记录下载，并与一次回答进行对照。采用预设规则与示例数据，不调用真实大模型、天气或地图接口。[体验演示](https://tangx2872-svg.github.io/weekend-agent-demo/)。
 - **生日解谜网站**：以原生 HTML / CSS / JavaScript 串联记忆题、图片题、字母密码与选择题；通过 `config.js` 集中配置内容，兼顾键盘操作、读屏提示和减少动态效果设置。
 - **Life Dashboard 智能助手**：在本机 Node.js + MySQL 基础上接入模型服务，围绕所选事项、学习路线和实验生成可预览的修改草案；保留确认保存、版本校验与操作前快照，真实模型效果与异常处理仍待继续验证。
 - **探索与利用课堂 Demo**：展示“选择 → 奖励 → 估计更新 → 累计收益”的完整过程，提供固定种子对照实验、课堂模式与 CSV 记录；如实呈现实验结果，不预设探索一定胜出。
@@ -49,6 +52,7 @@
 | **2026.10.26** | 🧭 Life Dashboard 全栈化 | 建立 `life-dashboard-agent` 仓库，将原有个人控制台升级为 Node.js + MySQL 本地全栈应用，加入数据库持久化、备份恢复、历史快照与后续 Agent 接入基础 |
 | **2026.10.27** | 🎮 课堂 Demo 数学与实验完善 | 补充估计更新、奖励与累计收益说明，整理固定种子对照实验、逐次轨迹与 CSV 导出 |
 | **2026.10.27** | 🎂 生日解谜网站 | 建立 `birthday-puzzle-surprise-2026`，整理多关卡交互、集中配置、进度保存与响应式布局的静态网站模板 |
+| **2026.10.28** | 🧳 Agent 流程教学 | 新增 `weekend-agent-demo`，以旅行规划场景演示分步执行、天气反馈与预算核对，支持执行记录下载和 GitHub Pages 在线体验 |
 | **现在** | 🎯 科研主线继续推进 | 从异常检测基础实验逐步进入工业视觉、光照鲁棒性、实验验证与论文方向探索 |
 
 ## 🧰 正在使用的技术
